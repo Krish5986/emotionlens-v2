@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+nltk
+vaderSentiment
+datasets
+matplotlib
+ipykernel
