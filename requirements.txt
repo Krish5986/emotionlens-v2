@@ -5,3 +5,4 @@ vaderSentiment
 datasets
 matplotlib
 ipykernel
+python-dotenv
