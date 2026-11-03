@@ -1,0 +1,8 @@
+   pandas
+   scikit-learn
+   nltk
+   vaderSentiment
+   datasets
+   transformers
+   torch
+   ipykernel

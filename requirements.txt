@@ -1,8 +1,5 @@
-pandas
-scikit-learn
-nltk
-vaderSentiment
-datasets
-matplotlib
-ipykernel
-python-dotenv
+   pandas
+   requests
+   python-dotenv
+   streamlit
+   matplotlib
